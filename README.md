@@ -1,1 +1,0 @@
-# My codeforces algorithms resolution
